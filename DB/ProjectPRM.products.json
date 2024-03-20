@@ -1,0 +1,2281 @@
+[{
+  "_id": {
+    "$oid": "654368ff8b15f41744af16aa"
+  },
+  "name": "Áo khoác thể thao Pro Active",
+  "price": 499000,
+  "quantity": 40,
+  "colors": [
+    "xám phối đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/October2023/QD001.24.jpg",
+      "caption": "Áo khoác thể thao Pro Active",
+      "_id": {
+        "$oid": "654368ff8b15f41744af16ac"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/October2023/QD001.24.jpg",
+      "caption": "Áo khoác thể thao Pro Active",
+      "_id": {
+        "$oid": "654368ff8b15f41744af16ac"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/October2023/QD001.24.jpg",
+      "caption": "Áo khoác thể thao Pro Active",
+      "_id": {
+        "$oid": "654368ff8b15f41744af16ac"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654369408b15f41744af16b1"
+  },
+  "name": "Áo khoác gió thể thao phối màu",
+  "price": 499000,
+  "quantity": 40,
+  "colors": [
+    "Rêu phối đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/November2023/rpd.cm006.1.jpg",
+      "caption": "Áo khoác gió thể thao phối màu",
+      "_id": {
+        "$oid": "654369408b15f41744af16b3"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/November2023/rpd.cm006.1.jpg",
+      "caption": "Áo khoác gió thể thao phối màu",
+      "_id": {
+        "$oid": "654369408b15f41744af16b3"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/November2023/rpd.cm006.1.jpg",
+      "caption": "Áo khoác gió thể thao phối màu",
+      "_id": {
+        "$oid": "654369408b15f41744af16b3"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654369528b15f41744af16b8"
+  },
+  "name": "T-Shirt Cotton Team Whales",
+  "price": 499000,
+  "quantity": 40,
+  "colors": [
+    "Đen",
+    "Trắng"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/denn3-(2)_copys_62.jpg",
+      "caption": "T-Shirt Cotton Team Whales",
+      "_id": {
+        "$oid": "654369528b15f41744af16ba"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/denn3-(2)_copys_62.jpg",
+      "caption": "T-Shirt Cotton Team Whales",
+      "_id": {
+        "$oid": "654369528b15f41744af16ba"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/denn3-(2)_copys_62.jpg",
+      "caption": "T-Shirt Cotton Team Whales",
+      "_id": {
+        "$oid": "654369528b15f41744af16ba"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436aad8b15f41744af16bf"
+  },
+  "name": "Combo REFINED 2 Nước hoa CM24",
+  "price": 99000,
+  "quantity": 40,
+  "colors": [
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/cball2310.2.jpg",
+      "caption": "Combo REFINED 2 Nước hoa CM24",
+      "_id": {
+        "$oid": "65436aad8b15f41744af16c1"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/cball2310.2.jpg",
+      "caption": "Combo REFINED 2 Nước hoa CM24",
+      "_id": {
+        "$oid": "65436aad8b15f41744af16c1"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/cball2310.2.jpg",
+      "caption": "Combo REFINED 2 Nước hoa CM24",
+      "_id": {
+        "$oid": "65436aad8b15f41744af16c1"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436b9d8b15f41744af16c6"
+  },
+  "name": "T-Shirt thể thao Team Whales",
+  "price": 499000,
+  "quantity": 40,
+  "colors": [
+    "Xanh trắng"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/lol-tw.2.jpg",
+      "caption": "T-Shirt thể thao Team Whales",
+      "_id": {
+        "$oid": "65436b9d8b15f41744af16c8"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/lol-tw.2.jpg",
+      "caption": "T-Shirt thể thao Team Whales",
+      "_id": {
+        "$oid": "65436b9d8b15f41744af16c8"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/lol-tw.2.jpg",
+      "caption": "T-Shirt thể thao Team Whales",
+      "_id": {
+        "$oid": "65436b9d8b15f41744af16c8"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436ba48b15f41744af16cd"
+  },
+  "name": "Áo nỉ chui đầu Lifewear",
+  "price": 339000,
+  "quantity": 40,
+  "colors": [
+    "Xám sáng",
+    "Xanh rêu"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ST002.4_47.jpg",
+      "caption": "Áo nỉ chui đầu Lifewear",
+      "_id": {
+        "$oid": "65436ba48b15f41744af16cf"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ST002.4_47.jpg",
+      "caption": "Áo nỉ chui đầu Lifewear",
+      "_id": {
+        "$oid": "65436ba48b15f41744af16cf"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ST002.4_47.jpg",
+      "caption": "Áo nỉ chui đầu Lifewear",
+      "_id": {
+        "$oid": "65436ba48b15f41744af16cf"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436baa8b15f41744af16d4"
+  },
+  "name": "Tanktop thể thao Active V2",
+  "price": 139000,
+  "quantity": 40,
+  "colors": [
+    "Xám nhạt",
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/September2023/ATT.TT.A.1.jpg",
+      "caption": "Tanktop thể thao Active V2",
+      "_id": {
+        "$oid": "65436baa8b15f41744af16d6"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/September2023/ATT.TT.A.1.jpg",
+      "caption": "Tanktop thể thao Active V2",
+      "_id": {
+        "$oid": "65436baa8b15f41744af16d6"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/September2023/ATT.TT.A.1.jpg",
+      "caption": "Tanktop thể thao Active V2",
+      "_id": {
+        "$oid": "65436baa8b15f41744af16d6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bb18b15f41744af16db"
+  },
+  "name": "Áo khoác có mũ Daily Wear",
+  "price": 469000,
+  "quantity": 40,
+  "colors": [
+    "Trắng",
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/CM006.thumb1.2_74.jpg",
+      "caption": "Áo khoác có mũ Daily Wear",
+      "_id": {
+        "$oid": "65436bb18b15f41744af16dd"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/CM006.thumb1.2_74.jpg",
+      "caption": "Áo khoác có mũ Daily Wear",
+      "_id": {
+        "$oid": "65436bb18b15f41744af16dd"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/CM006.thumb1.2_74.jpg",
+      "caption": "Áo khoác có mũ Daily Wear",
+      "_id": {
+        "$oid": "65436bb18b15f41744af16dd"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bb78b15f41744af16e2"
+  },
+  "name": "Polo thể thao V2",
+  "price": 189000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Xám đậm"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/August2022/Polo_v2_navy_1234.jpg",
+      "caption": "Polo thể thao V2",
+      "_id": {
+        "$oid": "65436bb78b15f41744af16e4"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/August2022/Polo_v2_navy_1234.jpg",
+      "caption": "Polo thể thao V2",
+      "_id": {
+        "$oid": "65436bb78b15f41744af16e4"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/August2022/Polo_v2_navy_1234.jpg",
+      "caption": "Polo thể thao V2",
+      "_id": {
+        "$oid": "65436bb78b15f41744af16e4"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bbf8b15f41744af16e9"
+  },
+  "name": "T-Shirt Cotton 200GSM",
+  "price": 139000,
+  "quantity": 40,
+  "colors": [
+    "Cacao",
+    "Xanh nhạt"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/February2023/newcacoa3-3.jpg",
+      "caption": "T-Shirt Cotton 200GSM",
+      "_id": {
+        "$oid": "65436bbf8b15f41744af16eb"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/February2023/newcacoa3-3.jpg",
+      "caption": "T-Shirt Cotton 200GSM",
+      "_id": {
+        "$oid": "65436bbf8b15f41744af16eb"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/February2023/newcacoa3-3.jpg",
+      "caption": "T-Shirt Cotton 200GSM",
+      "_id": {
+        "$oid": "65436bbf8b15f41744af16eb"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bc78b15f41744af16f0"
+  },
+  "name": "Áo khoác nỉ For Winter",
+  "price": 349000,
+  "quantity": 40,
+  "colors": [
+    "Xám đậm",
+    "Xám nhạt"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/September2022/ao-khoac-for-winter-xam-dam-2.jpg",
+      "caption": "Áo khoác nỉ For Winter",
+      "_id": {
+        "$oid": "65436bc78b15f41744af16f2"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/September2022/ao-khoac-for-winter-xam-dam-2.jpg",
+      "caption": "Áo khoác nỉ For Winter",
+      "_id": {
+        "$oid": "65436bc78b15f41744af16f2"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/September2022/ao-khoac-for-winter-xam-dam-2.jpg",
+      "caption": "Áo khoác nỉ For Winter",
+      "_id": {
+        "$oid": "65436bc78b15f41744af16f2"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bcd8b15f41744af16f7"
+  },
+  "name": "Quần dài thể thao Pro Active",
+  "price": 379000,
+  "quantity": 40,
+  "colors": [
+    "Xám phối đen",
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/QD001.25_61.jpg",
+      "caption": "Quần dài thể thao Pro Active",
+      "_id": {
+        "$oid": "65436bcd8b15f41744af16f9"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/QD001.25_61.jpg",
+      "caption": "Quần dài thể thao Pro Active",
+      "_id": {
+        "$oid": "65436bcd8b15f41744af16f9"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/QD001.25_61.jpg",
+      "caption": "Quần dài thể thao Pro Active",
+      "_id": {
+        "$oid": "65436bcd8b15f41744af16f9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bd58b15f41744af16fe"
+  },
+  "name": "Shorts thể thao 9",
+  "price": 229000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/_CMM0061_29.jpg",
+      "caption": "Quần dài thể thao Pro Active",
+      "_id": {
+        "$oid": "65436bd58b15f41744af1700"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/_CMM0061_29.jpg",
+      "caption": "Quần dài thể thao Pro Active",
+      "_id": {
+        "$oid": "65436bd58b15f41744af1700"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/_CMM0061_29.jpg",
+      "caption": "Quần dài thể thao Pro Active",
+      "_id": {
+        "$oid": "65436bd58b15f41744af1700"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bdb8b15f41744af1705"
+  },
+  "name": "Jeans Copper Denim Straight",
+  "price": 539000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Garment",
+    "Xanh nhạt"
+  ],
+  "sizes": [
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/Quan_Jeans_dang_Straight-thumb-1.jpg",
+      "caption": "Jeans Copper Denim Straight",
+      "_id": {
+        "$oid": "65436bdb8b15f41744af1707"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/Quan_Jeans_dang_Straight-thumb-1.jpg",
+      "caption": "Jeans Copper Denim Straight",
+      "_id": {
+        "$oid": "65436bdb8b15f41744af1707"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/Quan_Jeans_dang_Straight-thumb-1.jpg",
+      "caption": "Jeans Copper Denim Straight",
+      "_id": {
+        "$oid": "65436bdb8b15f41744af1707"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436be28b15f41744af170c"
+  },
+  "name": "Quần dài Kaki Excool",
+  "price": 439000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/_CMM6500.jpg",
+      "caption": "Quần dài Kaki Excool",
+      "_id": {
+        "$oid": "65436be28b15f41744af170e"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/_CMM6500.jpg",
+      "caption": "Quần dài Kaki Excool",
+      "_id": {
+        "$oid": "65436be28b15f41744af170e"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/_CMM6500.jpg",
+      "caption": "Quần dài Kaki Excool",
+      "_id": {
+        "$oid": "65436be28b15f41744af170e"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436be88b15f41744af1713"
+  },
+  "name": "Shorts thể thao Promax-S1",
+  "price": 169000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Xanh Aqua"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/November2022/quan-short-promax-s1-xanh-navy-4.jpg",
+      "caption": "Shorts thể thao Promax-S1",
+      "_id": {
+        "$oid": "65436be88b15f41744af1715"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/November2022/quan-short-promax-s1-xanh-navy-4.jpg",
+      "caption": "Shorts thể thao Promax-S1",
+      "_id": {
+        "$oid": "65436be88b15f41744af1715"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/November2022/quan-short-promax-s1-xanh-navy-4.jpg",
+      "caption": "Shorts thể thao Promax-S1",
+      "_id": {
+        "$oid": "65436be88b15f41744af1715"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bef8b15f41744af171a"
+  },
+  "name": "Quần dài nam UT Pants",
+  "price": 639000,
+  "quantity": 40,
+  "colors": [
+    "Đen",
+    "Xám nhạt"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80/image/October2023/thumb_CMM0523_99.jpg",
+      "caption": "Quần dài nam UT Pants",
+      "_id": {
+        "$oid": "65436bef8b15f41744af171c"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80/image/October2023/thumb_CMM0523_99.jpg",
+      "caption": "Quần dài nam UT Pants",
+      "_id": {
+        "$oid": "65436bef8b15f41744af171c"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80/image/October2023/thumb_CMM0523_99.jpg",
+      "caption": "Quần dài nam UT Pants",
+      "_id": {
+        "$oid": "65436bef8b15f41744af171c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bf68b15f41744af1721"
+  },
+  "name": "Jeans Copper Denim OG Slim",
+  "price": 539000,
+  "quantity": 40,
+  "colors": [
+    "Xanh đậm",
+    "Xanh nhạt"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/May2023/Quan_Jeans_dang_OG_Slim-thuumb-1.jpg",
+      "caption": "Jeans Copper Denim OG Slim",
+      "_id": {
+        "$oid": "65436bf68b15f41744af1723"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/May2023/Quan_Jeans_dang_OG_Slim-thuumb-1.jpg",
+      "caption": "Jeans Copper Denim OG Slim",
+      "_id": {
+        "$oid": "65436bf68b15f41744af1723"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/May2023/Quan_Jeans_dang_OG_Slim-thuumb-1.jpg",
+      "caption": "Jeans Copper Denim OG Slim",
+      "_id": {
+        "$oid": "65436bf68b15f41744af1723"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436bfc8b15f41744af1728"
+  },
+  "name": "Shorts chạy bộ Essential",
+  "price": 319000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Xanh ngọc"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2023/QSRN2EF-16.jpg",
+      "caption": "Shorts chạy bộ Essential",
+      "_id": {
+        "$oid": "65436bfc8b15f41744af172a"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2023/QSRN2EF-16.jpg",
+      "caption": "Shorts chạy bộ Essential",
+      "_id": {
+        "$oid": "65436bfc8b15f41744af172a"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2023/QSRN2EF-16.jpg",
+      "caption": "Shorts chạy bộ Essential",
+      "_id": {
+        "$oid": "65436bfc8b15f41744af172a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c078b15f41744af172f"
+  },
+  "name": "Jogger thể thao",
+  "price": 199000,
+  "quantity": 40,
+  "colors": [
+    "Xám nhạt"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2022/1234231.jpg",
+      "caption": "Jogger thể thao",
+      "_id": {
+        "$oid": "65436c078b15f41744af1731"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2022/1234231.jpg",
+      "caption": "Jogger thể thao",
+      "_id": {
+        "$oid": "65436c078b15f41744af1731"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2022/1234231.jpg",
+      "caption": "Jogger thể thao",
+      "_id": {
+        "$oid": "65436c078b15f41744af1731"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c0f8b15f41744af1736"
+  },
+  "name": "Shorts đi biển Coolwaves",
+  "price": 169000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Ombre"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/June2023/coolwaves--shorts--5_15.jpg",
+      "caption": "Shorts đi biển Coolwaves",
+      "_id": {
+        "$oid": "65436c0f8b15f41744af1738"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/June2023/coolwaves--shorts--5_15.jpg",
+      "caption": "Shorts đi biển Coolwaves",
+      "_id": {
+        "$oid": "65436c0f8b15f41744af1738"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/June2023/coolwaves--shorts--5_15.jpg",
+      "caption": "Shorts đi biển Coolwaves",
+      "_id": {
+        "$oid": "65436c0f8b15f41744af1738"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c188b15f41744af173d"
+  },
+  "name": "Combo 2 Trunk Excool - Durex",
+  "price": 159000,
+  "quantity": 40,
+  "colors": [
+    "Mix 3"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ahihu_CMM2178_52_copy.jpg",
+      "caption": "Combo 2 Trunk Excool - Durex",
+      "_id": {
+        "$oid": "65436c188b15f41744af173f"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ahihu_CMM2178_52_copy.jpg",
+      "caption": "Combo 2 Trunk Excool - Durex",
+      "_id": {
+        "$oid": "65436c188b15f41744af173f"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ahihu_CMM2178_52_copy.jpg",
+      "caption": "Combo 2 Trunk Excool - Durex",
+      "_id": {
+        "$oid": "65436c188b15f41744af173f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c1f8b15f41744af1744"
+  },
+  "name": "Quần lót Long Leg",
+  "price": 159000,
+  "quantity": 40,
+  "colors": [
+    "Đen",
+    "Xanh Aqua"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/23CMHU.LL002.1_7_63.jpg",
+      "caption": "Quần lót Long Leg",
+      "_id": {
+        "$oid": "65436c1f8b15f41744af1746"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ahihu_CMM2178_52_copy.jpg",
+      "caption": "Combo 2 Trunk Excool - Durex",
+      "_id": {
+        "$oid": "65436c188b15f41744af173f"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ahihu_CMM2178_52_copy.jpg",
+      "caption": "Combo 2 Trunk Excool - Durex",
+      "_id": {
+        "$oid": "65436c188b15f41744af173f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c258b15f41744af174b"
+  },
+  "name": "Quần Long tights mặc trong",
+  "price": 269000,
+  "quantity": 40,
+  "colors": [
+    "Xám đậm",
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/23CMHU.LU001.X1.1.jpg",
+      "caption": "Quần Long tights mặc trong",
+      "_id": {
+        "$oid": "65436c258b15f41744af174d"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ahihu_CMM2178_52_copy.jpg",
+      "caption": "Combo 2 Trunk Excool - Durex",
+      "_id": {
+        "$oid": "65436c188b15f41744af173f"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/ahihu_CMM2178_52_copy.jpg",
+      "caption": "Combo 2 Trunk Excool - Durex",
+      "_id": {
+        "$oid": "65436c188b15f41744af173f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c2c8b15f41744af1752"
+  },
+  "name": "Boxer Shorts Cotton Compact",
+  "price": 159000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/BX009.6_70.jpg",
+      "caption": "Boxer Shorts Cotton Compact",
+      "_id": {
+        "$oid": "65436c2c8b15f41744af1754"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/BX009.6_70.jpg",
+      "caption": "Boxer Shorts Cotton Compact",
+      "_id": {
+        "$oid": "65436c2c8b15f41744af1754"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/BX009.6_70.jpg",
+      "caption": "Boxer Shorts Cotton Compact",
+      "_id": {
+        "$oid": "65436c2c8b15f41744af1754"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c328b15f41744af1759"
+  },
+  "name": "Combo 2 Boxer Brief thể thao",
+  "price": 219000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Xám"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/BXDDEDM-2.jpg",
+      "caption": "Combo 2 Boxer Brief thể thao",
+      "_id": {
+        "$oid": "65436c328b15f41744af175b"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/BXDDEDM-2.jpg",
+      "caption": "Combo 2 Boxer Brief thể thao",
+      "_id": {
+        "$oid": "65436c328b15f41744af175b"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/BXDDEDM-2.jpg",
+      "caption": "Combo 2 Boxer Brief thể thao",
+      "_id": {
+        "$oid": "65436c328b15f41744af175b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c398b15f41744af1760"
+  },
+  "name": "Combo 3 Trunk Cotton Modal",
+  "price": 199000,
+  "quantity": 40,
+  "colors": [
+    "Phối màu",
+    "Xám"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/May2023/cottonmoxammix.jpg",
+      "caption": "Combo 3 Trunk Cotton Modal",
+      "_id": {
+        "$oid": "65436c398b15f41744af1762"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/May2023/cottonmoxammix.jpg",
+      "caption": "Combo 3 Trunk Cotton Modal",
+      "_id": {
+        "$oid": "65436c398b15f41744af1762"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/May2023/cottonmoxammix.jpg",
+      "caption": "Combo 3 Trunk Cotton Modal",
+      "_id": {
+        "$oid": "65436c398b15f41744af1762"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c418b15f41744af1767"
+  },
+  "name": "Combo 5 Brief Bamboo",
+  "price": 349000,
+  "quantity": 40,
+  "colors": [
+    "Đen",
+    "Xám"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/June2023/5briefGroup_1202.jpg",
+      "caption": "Combo 5 Brief Bamboo",
+      "_id": {
+        "$oid": "65436c418b15f41744af1769"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/June2023/5briefGroup_1202.jpg",
+      "caption": "Combo 5 Brief Bamboo",
+      "_id": {
+        "$oid": "65436c418b15f41744af1769"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/June2023/5briefGroup_1202.jpg",
+      "caption": "Combo 5 Brief Bamboo",
+      "_id": {
+        "$oid": "65436c418b15f41744af1769"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c488b15f41744af176e"
+  },
+  "name": "Combo 5 Trunk Cotton Compact",
+  "price": 439000,
+  "quantity": 40,
+  "colors": [
+    "Màu 1",
+    "Màu 2"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/June2023/combo5lot-1_54.jpg",
+      "caption": "Combo 5 Trunk Cotton Compact",
+      "_id": {
+        "$oid": "65436c488b15f41744af1770"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/June2023/combo5lot-1_54.jpg",
+      "caption": "Combo 5 Trunk Cotton Compact",
+      "_id": {
+        "$oid": "65436c488b15f41744af1770"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/June2023/combo5lot-1_54.jpg",
+      "caption": "Combo 5 Trunk Cotton Compact",
+      "_id": {
+        "$oid": "65436c488b15f41744af1770"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c4e8b15f41744af1775"
+  },
+  "name": "Quần lót chạy bộ Fast & Free",
+  "price": 129000,
+  "quantity": 40,
+  "colors": [
+    "Xám đậm",
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/denRunning_Underwear_-_Xanh_-_3D_-_2_copyxam.jpg",
+      "caption": "Quần lót chạy bộ Fast & Free",
+      "_id": {
+        "$oid": "65436c4e8b15f41744af1777"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/denRunning_Underwear_-_Xanh_-_3D_-_2_copyxam.jpg",
+      "caption": "Quần lót chạy bộ Fast & Free",
+      "_id": {
+        "$oid": "65436c4e8b15f41744af1777"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/denRunning_Underwear_-_Xanh_-_3D_-_2_copyxam.jpg",
+      "caption": "Quần lót chạy bộ Fast & Free",
+      "_id": {
+        "$oid": "65436c4e8b15f41744af1777"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c548b15f41744af177c"
+  },
+  "name": "Combo 3 Trunk Cotton Compact",
+  "price": 229000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy",
+    "Xám"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/July2022/combo_3_cotton_fixx.jpg",
+      "caption": "Combo 3 Trunk Cotton Compact",
+      "_id": {
+        "$oid": "65436c548b15f41744af177e"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/July2022/combo_3_cotton_fixx.jpg",
+      "caption": "Combo 3 Trunk Cotton Compact",
+      "_id": {
+        "$oid": "65436c548b15f41744af177e"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/July2022/combo_3_cotton_fixx.jpg",
+      "caption": "Combo 3 Trunk Cotton Compact",
+      "_id": {
+        "$oid": "65436c548b15f41744af177e"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c598b15f41744af1783"
+  },
+  "name": "Combo 3 Tất Cotton Supima",
+  "price": 149000,
+  "quantity": 40,
+  "colors": [
+    "Trắng",
+    "Xám"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/supima-socks-4_17.jpg",
+      "caption": "Combo 3 Tất Cotton Supima",
+      "_id": {
+        "$oid": "65436c598b15f41744af1785"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/supima-socks-4_17.jpg",
+      "caption": "Combo 3 Tất Cotton Supima",
+      "_id": {
+        "$oid": "65436c598b15f41744af1785"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/May2023/supima-socks-4_17.jpg",
+      "caption": "Combo 3 Tất Cotton Supima",
+      "_id": {
+        "$oid": "65436c598b15f41744af1785"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c608b15f41744af178a"
+  },
+  "name": "Đai đeo bụng chạy bộ",
+  "price": 349000,
+  "quantity": 40,
+  "colors": [
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/23CMAW.PK001.1_89.jpg",
+      "caption": "Đai đeo bụng chạy bộ",
+      "_id": {
+        "$oid": "65436c608b15f41744af178c"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/23CMAW.PK001.1_89.jpg",
+      "caption": "Đai đeo bụng chạy bộ",
+      "_id": {
+        "$oid": "65436c608b15f41744af178c"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/23CMAW.PK001.1_89.jpg",
+      "caption": "Đai đeo bụng chạy bộ",
+      "_id": {
+        "$oid": "65436c608b15f41744af178c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c6a8b15f41744af1791"
+  },
+  "name": "Gaiter mặt nạ đa năng chạy bộ",
+  "price": 99000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Coban",
+    "Xanh lá"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/23CMAW.PK002.6_copy.jpg",
+      "caption": "Gaiter mặt nạ đa năng chạy bộ",
+      "_id": {
+        "$oid": "65436c6a8b15f41744af1793"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/23CMAW.PK002.6_copy.jpg",
+      "caption": "Gaiter mặt nạ đa năng chạy bộ",
+      "_id": {
+        "$oid": "65436c6a8b15f41744af1793"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/23CMAW.PK002.6_copy.jpg",
+      "caption": "Gaiter mặt nạ đa năng chạy bộ",
+      "_id": {
+        "$oid": "65436c6a8b15f41744af1793"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c708b15f41744af1798"
+  },
+  "name": "Cốc làm từ bã cà phê",
+  "price": 129000,
+  "quantity": 40,
+  "colors": [
+    "Nâu"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2023/_CMM6588ss.jpg",
+      "caption": "Cốc làm từ bã cà phê",
+      "_id": {
+        "$oid": "65436c708b15f41744af179a"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2023/_CMM6588ss.jpg",
+      "caption": "Cốc làm từ bã cà phê",
+      "_id": {
+        "$oid": "65436c708b15f41744af179a"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2023/_CMM6588ss.jpg",
+      "caption": "Cốc làm từ bã cà phê",
+      "_id": {
+        "$oid": "65436c708b15f41744af179a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436c778b15f41744af179f"
+  },
+  "name": "Găng tay đa năng chống tia UV",
+  "price": 79000,
+  "quantity": 40,
+  "colors": [
+    "Xám"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/July2023/xam1DSCF9785_34.jpg",
+      "caption": "Găng tay đa năng chống tia UV",
+      "_id": {
+        "$oid": "65436c778b15f41744af17a1"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/July2023/xam1DSCF9785_34.jpg",
+      "caption": "Găng tay đa năng chống tia UV",
+      "_id": {
+        "$oid": "65436c778b15f41744af17a1"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/July2023/xam1DSCF9785_34.jpg",
+      "caption": "Găng tay đa năng chống tia UV",
+      "_id": {
+        "$oid": "65436c778b15f41744af17a1"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436d568b15f41744af17a6"
+  },
+  "name": "Mũ lưỡi trai Classic Cap",
+  "price": 139000,
+  "quantity": 40,
+  "colors": [
+    "Xám",
+    "Nâu nhạt "
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/November2022/mu-classic-cap-theu-logo-coolmate-xam-2.jpg",
+      "caption": "Mũ lưỡi trai Classic Cap",
+      "_id": {
+        "$oid": "65436d568b15f41744af17a8"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/November2022/mu-classic-cap-theu-logo-coolmate-xam-2.jpg",
+      "caption": "Mũ lưỡi trai Classic Cap",
+      "_id": {
+        "$oid": "65436d568b15f41744af17a8"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/November2022/mu-classic-cap-theu-logo-coolmate-xam-2.jpg",
+      "caption": "Mũ lưỡi trai Classic Cap",
+      "_id": {
+        "$oid": "65436d568b15f41744af17a8"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436d6c8b15f41744af17ad"
+  },
+  "name": "Tất chạy bộ Active",
+  "price": 60000,
+  "quantity": 40,
+  "colors": [
+    "Cam",
+    "Đen phối xanh lá"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/23CMAW.TA002.listing3.6z_15.jpg",
+      "caption": "Tất chạy bộ Active",
+      "_id": {
+        "$oid": "65436d6c8b15f41744af17af"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/23CMAW.TA002.listing3.6z_15.jpg",
+      "caption": "Tất chạy bộ Active",
+      "_id": {
+        "$oid": "65436d6c8b15f41744af17af"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/23CMAW.TA002.listing3.6z_15.jpg",
+      "caption": "Tất chạy bộ Active",
+      "_id": {
+        "$oid": "65436d6c8b15f41744af17af"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436d828b15f41744af17b4"
+  },
+  "name": "Bucket Hat Care & Share",
+  "price": 60000,
+  "quantity": 40,
+  "colors": [
+    "xám"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/April2022/d4.jpg",
+      "caption": "Bucket Hat Care & Share",
+      "_id": {
+        "$oid": "65436d828b15f41744af17b6"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/April2022/d4.jpg",
+      "caption": "Bucket Hat Care & Share",
+      "_id": {
+        "$oid": "65436d828b15f41744af17b6"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/April2022/d4.jpg",
+      "caption": "Bucket Hat Care & Share",
+      "_id": {
+        "$oid": "65436d828b15f41744af17b6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436d938b15f41744af17bb"
+  },
+  "name": "Tất thể thao chống trượt",
+  "price": 89000,
+  "quantity": 40,
+  "colors": [
+    "Đen",
+    "trắng"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/sssgym-socks-10_6_89.jpg",
+      "caption": "Tất thể thao chống trượt",
+      "_id": {
+        "$oid": "65436d938b15f41744af17bd"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/sssgym-socks-10_6_89.jpg",
+      "caption": "Tất thể thao chống trượt",
+      "_id": {
+        "$oid": "65436d938b15f41744af17bd"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=100/uploads/October2023/sssgym-socks-10_6_89.jpg",
+      "caption": "Tất thể thao chống trượt",
+      "_id": {
+        "$oid": "65436d938b15f41744af17bd"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436d9e8b15f41744af17c2"
+  },
+  "name": "Mũ lưỡi trai Baseball Cap",
+  "price": 99000,
+  "quantity": 40,
+  "colors": [
+    "Đen"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2022/5-1_94.jpg",
+      "caption": "Mũ lưỡi trai Baseball Cap",
+      "_id": {
+        "$oid": "65436d9e8b15f41744af17c4"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2022/5-1_94.jpg",
+      "caption": "Mũ lưỡi trai Baseball Cap",
+      "_id": {
+        "$oid": "65436d9e8b15f41744af17c4"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2022/5-1_94.jpg",
+      "caption": "Mũ lưỡi trai Baseball Cap",
+      "_id": {
+        "$oid": "65436d9e8b15f41744af17c4"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436da68b15f41744af17c9"
+  },
+  "name": "Nước hoa CM24 ICONIC COOL EDP",
+  "price": 199000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/cm24-iconic-9ml-2.jpg",
+      "caption": "Nước hoa CM24 ICONIC COOL EDP",
+      "_id": {
+        "$oid": "65436da68b15f41744af17cb"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/cm24-iconic-9ml-2.jpg",
+      "caption": "Nước hoa CM24 ICONIC COOL EDP",
+      "_id": {
+        "$oid": "65436da68b15f41744af17cb"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/cm24-iconic-9ml-2.jpg",
+      "caption": "Nước hoa CM24 ICONIC COOL EDP",
+      "_id": {
+        "$oid": "65436da68b15f41744af17cb"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436dae8b15f41744af17d0"
+  },
+  "name": "Nước hoa CM24 ICONIC COOL EDP",
+  "price": 599000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/250ml-2.jpg",
+      "caption": "Nước hoa CM24 ICONIC COOL EDP",
+      "_id": {
+        "$oid": "65436dae8b15f41744af17d2"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/250ml-2.jpg",
+      "caption": "Nước hoa CM24 ICONIC COOL EDP",
+      "_id": {
+        "$oid": "65436dae8b15f41744af17d2"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/250ml-2.jpg",
+      "caption": "Nước hoa CM24 ICONIC COOL EDP",
+      "_id": {
+        "$oid": "65436dae8b15f41744af17d2"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436db78b15f41744af17d7"
+  },
+  "name": "DISCOVERY Perfume Set by CM24",
+  "price": 169000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/2cm24.0310.2.jpg",
+      "caption": "DISCOVERY Perfume Set by CM24",
+      "_id": {
+        "$oid": "65436db78b15f41744af17d9"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/2cm24.0310.2.jpg",
+      "caption": "DISCOVERY Perfume Set by CM24",
+      "_id": {
+        "$oid": "65436db78b15f41744af17d9"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/October2023/2cm24.0310.2.jpg",
+      "caption": "DISCOVERY Perfume Set by CM24",
+      "_id": {
+        "$oid": "65436db78b15f41744af17d9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436dc28b15f41744af17de"
+  },
+  "name": "Lăn khử mùi CM24",
+  "price": 89000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-lan-3.jpg",
+      "caption": "Lăn khử mùi CM24",
+      "_id": {
+        "$oid": "65436dc28b15f41744af17e0"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-lan-3.jpg",
+      "caption": "Lăn khử mùi CM24",
+      "_id": {
+        "$oid": "65436dc28b15f41744af17e0"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-lan-3.jpg",
+      "caption": "Lăn khử mùi CM24",
+      "_id": {
+        "$oid": "65436dc28b15f41744af17e0"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436dca8b15f41744af17e5"
+  },
+  "name": "Sữa tắm gội 2in1 CM24",
+  "price": 89000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-180-1.jpg",
+      "caption": "Sữa tắm gội 2in1 CM24",
+      "_id": {
+        "$oid": "65436dca8b15f41744af17e7"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-180-1.jpg",
+      "caption": "Sữa tắm gội 2in1 CM24",
+      "_id": {
+        "$oid": "65436dca8b15f41744af17e7"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-180-1.jpg",
+      "caption": "Sữa tắm gội 2in1 CM24",
+      "_id": {
+        "$oid": "65436dca8b15f41744af17e7"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436dd38b15f41744af17ec"
+  },
+  "name": "Kem rửa mặt CM24",
+  "price": 109000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-face-4.jpg",
+      "caption": "Kem rửa mặt CM24",
+      "_id": {
+        "$oid": "65436dd38b15f41744af17ee"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-face-4.jpg",
+      "caption": "Kem rửa mặt CM24",
+      "_id": {
+        "$oid": "65436dd38b15f41744af17ee"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-face-4.jpg",
+      "caption": "Kem rửa mặt CM24",
+      "_id": {
+        "$oid": "65436dd38b15f41744af17ee"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436dde8b15f41744af17f3"
+  },
+  "name": "Grooming Kit CM24",
+  "price": 249000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-kit-2.jpg",
+      "caption": "Grooming Kit CM24 ",
+      "_id": {
+        "$oid": "65436dde8b15f41744af17f5"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-kit-2.jpg",
+      "caption": "Grooming Kit CM24 ",
+      "_id": {
+        "$oid": "65436dde8b15f41744af17f5"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-kit-2.jpg",
+      "caption": "Grooming Kit CM24 ",
+      "_id": {
+        "$oid": "65436dde8b15f41744af17f5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436de58b15f41744af17fa"
+  },
+  "name": "Shaving Kit CM24",
+  "price": 199000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-kit-1.jpg",
+      "caption": "Shaving Kit CM24 ",
+      "_id": {
+        "$oid": "65436de58b15f41744af17fc"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-kit-1.jpg",
+      "caption": "Shaving Kit CM24 ",
+      "_id": {
+        "$oid": "65436de58b15f41744af17fc"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-kit-1.jpg",
+      "caption": "Shaving Kit CM24 ",
+      "_id": {
+        "$oid": "65436de58b15f41744af17fc"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436deb8b15f41744af1801"
+  },
+  "name": "Bộ 2 lưỡi dao cạo râu CM24",
+  "price": 99000,
+  "quantity": 40,
+  "colors": [
+    "Xanh Navy"
+  ],
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+  ],
+  "category": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "images": [
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-luoi-2.jpg",
+      "caption": "Bộ 2 lưỡi dao cạo râu CM24",
+      "_id": {
+        "$oid": "65436deb8b15f41744af1803"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-luoi-2.jpg",
+      "caption": "Bộ 2 lưỡi dao cạo râu CM24",
+      "_id": {
+        "$oid": "65436deb8b15f41744af1803"
+      }
+    },
+    {
+      "url": "https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/August2023/thumb168-cm24-luoi-2.jpg",
+      "caption": "Bộ 2 lưỡi dao cạo râu CM24",
+      "_id": {
+        "$oid": "65436deb8b15f41744af1803"
+      }
+    }
+  ],
+  "__v": 0
+}]

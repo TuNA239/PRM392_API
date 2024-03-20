@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65436ee18b15f41744af1809"
+  },
+  "name": "Giao Hàng Nhanh",
+  "price": "23000",
+  "deliveryTime": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436efd8b15f41744af180b"
+  },
+  "name": "Giao Hàng Tiết Kiệm",
+  "price": "15000",
+  "deliveryTime": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436f108b15f41744af180d"
+  },
+  "name": "J&T Express",
+  "price": "20000",
+  "deliveryTime": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65436f198b15f41744af180f"
+  },
+  "name": "Shopee Xpress Instant ",
+  "price": "18000",
+  "deliveryTime": 4,
+  "__v": 0
+}]

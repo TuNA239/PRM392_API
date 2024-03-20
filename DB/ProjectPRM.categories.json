@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6543688e8b15f41744af169f"
+  },
+  "name": "CM24",
+  "description": "Bộ chăm sóc cơ thể cho nam & Tiện dụng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654368a88b15f41744af16a1"
+  },
+  "name": "Phụ kiện",
+  "description": "Tiện dụng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654368b18b15f41744af16a3"
+  },
+  "name": "Quần lót",
+  "description": "Co giãn & Khử mùi & Thoáng khí",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654368ba8b15f41744af16a5"
+  },
+  "name": "Quần",
+  "description": "Co giãn & Chống UV 99% & Thoáng khí",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654368c48b15f41744af16a7"
+  },
+  "name": "Áo",
+  "description": "Giữ ấm & Chống nhăn & Chống UV 99% ",
+  "__v": 0
+}]
